@@ -22,5 +22,6 @@ Se deberá entregar un máximo de dos ficheros en los que se incluya el código 
 Integrantes del equipo:
 
 José Daniel Sustaita Garza
+
 Juan Carlos Valencia Lizardi
 
