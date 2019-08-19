@@ -1,0 +1,4 @@
+tarea|tarea@gmail.com|tarea|$2y$10$N7D2reRy1/thnMc0GAkVUOdMYPuJ.sx1naQ1K9YMxLjTFRhPrwgm2|
+José Sustaita|jsustaita@hotmail.com|dany|$2y$10$k2rfkcHpkmZ1GDp4omsOjuLtSGJlbPAzfwSLjGFIi6z7QxJb1SB8W|
+Juan Valencia|jvalencia@correo.unam.mx|jc|$2y$10$9BK5kVmzD.GccjVYIL44sOcxYr/lWTSj9qcJjqhECr2usMWwzaNEq|administrador|admin@afmin.com|admin|$2y$10$5Uf7jtrg7uNH9Vay42vF3eaSp6KRnKK9L0rkrNv1EhoU8kTH8wIke|
+administrador|admin@admin.com|admin|$2y$10$jwVBz5bqpPcqRskBo2YXi.w7NFxJ1JN4a8TQDY24QAb1MzfZ9wtj2|
